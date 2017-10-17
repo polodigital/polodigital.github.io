@@ -1,2 +1,4 @@
 # Polo de Contenidos Digitales
-## Informática
+## Oficina Técnica
+
+oficinatecnica@polodigital.eu
