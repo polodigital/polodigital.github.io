@@ -1,2 +1,2 @@
-# polodigital.github.io
-Polo de Contenidos Digitales
+# Polo de Contenidos Digitales
+## Informática
